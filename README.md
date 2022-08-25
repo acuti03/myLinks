@@ -6,3 +6,7 @@ Web page that contains links to my social media and my site:
 ## Day mode
 
 ![light](light.png)
+
+## Night mode
+
+![dark](dark.png)
