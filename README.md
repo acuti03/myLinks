@@ -5,4 +5,4 @@ Web page that contains links to my social media and my site:
 
 ## Day mode
 
-![day mode](/Users/simoneacuti/Desktop/light.png "day mode")
+![light](/Users/simoneacuti/Desktop/light.png "light")
