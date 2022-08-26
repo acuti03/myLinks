@@ -6,8 +6,8 @@ Web page that contains links to my social media and my site:
 
 ## Day mode
 
-![light](./src/image/light.png)
+![light](light.png)
 
 ## Night mode
 
-![dark](src/image/dark.png)
+![dark](dark.png)
