@@ -10,4 +10,4 @@ Web page that contains links to my social media and my site:
 
 ## Night mode
 
-![dark](./src/image/dark.png)
+![dark](src/image/dark.png)
