@@ -41,7 +41,7 @@ function App() {
           </Highlight>
         </Heading>
         <Stack spacing={4} direction='column'  mt='4em' mb='80px'>
-          <Link href='https://www.apple.com/' isExternal>
+          <Link href='#' isExternal>
           <Button size='lg' bg={bc} variant='main-button' leftIcon={<LinkIcon size='lg'/>}>
             Website
           </Button>
