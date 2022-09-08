@@ -37,11 +37,11 @@ function App() {
         <Divider width='250px' mt='1.5em'/>
         <Heading fontSize='30px' mt='1em' variant='title'>
           <Highlight query='Links:' styles={{ px: '3', py: '1', rounded: 'full', bg:hc, color:thc}}>
-            I miei Links:
+            My Links:
           </Highlight>
         </Heading>
         <Stack spacing={4} direction='column'  mt='4em' mb='80px'>
-          <Link href='#' isExternal>
+          <Link href='https://simosite.web.app/' isExternal>
           <Button size='lg' bg={bc} variant='main-button' leftIcon={<LinkIcon size='lg'/>}>
             Website
           </Button>
