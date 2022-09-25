@@ -2,7 +2,7 @@
 
 Web page that contains links to my social media and my site:
 
-<https://simolinks-5349d.web.app/>
+<https://simolinks-e9d54.web.app/>
 
 ## ☀️Day mode:
 
