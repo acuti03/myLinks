@@ -41,7 +41,7 @@ function App() {
           </Highlight>
         </Heading>
         <Stack spacing={4} direction='column'  mt='4em' mb='80px'>
-          <Link href='https://simosite.web.app/' isExternal>
+          <Link href='https://simosite-e0f75.web.app/' isExternal>
           <Button size='lg' bg={bc} variant='main-button' leftIcon={<LinkIcon size='lg'/>}>
             Website
           </Button>
