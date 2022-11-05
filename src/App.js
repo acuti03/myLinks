@@ -4,11 +4,8 @@ import {
   Box,
   Link,
   Avatar,
-  Text,
   Divider,
   Stack,
-  Flex,
-  Spacer,
   Button,
   Heading,
   Highlight,
@@ -21,7 +18,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faStrava, faTelegram } from '@fortawesome/free-brands-svg-icons';
 import Footer from './components/footer';
 import Navbar from './components/navbar';
-import { motion } from 'framer-motion'
 
 
 function App() {
