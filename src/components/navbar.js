@@ -22,7 +22,7 @@ const Navbar = () =>{
             <Heading letterSpacing={'tighter'} mt={1} fontSize={21}>Simone Acuti</Heading>
             <Spacer/>
             <Link href='https://github.com/acuti03/myLinks' isExternal>
-                <Button variant='ghost' leftIcon={<FontAwesomeIcon icon={faGithub} size='lg'/>}>Codice</Button>
+                <Button variant='ghost' leftIcon={<FontAwesomeIcon icon={faGithub} size='lg'/>}>Source</Button>
             </Link>
             <ThemeButton/>
       </Flex>
